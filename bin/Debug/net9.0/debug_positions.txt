@@ -1,0 +1,8 @@
+=== PLAYER BODY DEBUG ===
+Center: (177.5, 557.0)
+Hip L: (170.7, 591.0)
+Hip R: (183.3, 591.0)
+Foot L: (170.7, 639.0)
+Foot R: (183.3, 639.0)
+Shorts: (156, 571) size (42x22)
+Torso: (155, 527) size (45x45)
