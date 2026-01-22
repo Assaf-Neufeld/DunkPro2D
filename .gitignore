@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# Test results and coverage
+TestResults/
+*.coverage
+*.coveragexml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+*_debug*.txt
+debug_positions.txt
